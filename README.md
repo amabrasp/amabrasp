@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Anderson luiz maestri
 - 👀 I’m interested na areá de programação
-- 🌱 I’m currently learning progrmação
+- 🌱 I’m currently learning programação
+- ![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=amabrasp&show_icons=true&theme=radical)
+
 
 
 <!---
